@@ -1,2 +1,2 @@
-print 'HI HOW ARE YOU'
+print 'HELLO FRIEND'
 print 'I AM FINE'
